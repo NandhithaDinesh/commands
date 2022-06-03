@@ -2,4 +2,4 @@ Git init
 Git clone
 Git push
 Git pull
-
+Git status
