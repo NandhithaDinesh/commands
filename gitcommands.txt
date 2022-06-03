@@ -3,3 +3,6 @@ Git clone
 Git push
 Git pull
 Git status
+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
+git status
+
